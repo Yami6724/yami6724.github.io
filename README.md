@@ -1,2 +1,1 @@
-# yami6724.github.io
-Just some random code stuff when I get board at school and stuff ig
+Just some code I have coded when im board it may or may not work its just stuff really.
